@@ -8,7 +8,7 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-title: 蓝星回忆录 PART I
+title: 蓝星回忆录 PART II
 ---
 
 <style>
